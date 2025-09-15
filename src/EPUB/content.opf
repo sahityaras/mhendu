@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <meta property="dcterms:modified">2025-08-30T20:51:26Z</meta>
+    <meta property="dcterms:modified">2025-09-15T03:43:08Z</meta>
     <meta name="generator" content="Ebook-lib 0.19.0"/>
     <dc:identifier id="id">20250830205126</dc:identifier>
     <dc:title>म्हेन्दु</dc:title>
@@ -9,18 +9,17 @@
     <dc:creator id="creator">लक्ष्मीप्रसाद देवकोटा</dc:creator>
     <dc:date>2025-08-30T20:51:26Z</dc:date>
     <dc:publisher>Sahityaras</dc:publisher>
-    <source_publisher>साझा प्रकाशन</source_publisher>
-    <source_edition>पाँचौँ</source_edition>
-    <source_year>२०६३</source_year>
-    <source_isbn>99933-2-493-0</source_isbn>
-    <book_about>म्हेन्द यो एउटा तामाङ लयको फूल हो। यसमा दोसाँधे नीलो मोहनी छ, जो गोसाईंथानतिरको कुइरे उकालामा चम्कन्छ। मंगोल तथा आर्य- संस्कृतिको मधु सम्मेलन भएको नेपाल यहाँ एक प्यारको काल्पनिक कहानीमा अमरत्वको सङ्केत दिलाएर वनचरी र झर्नाहरूको स्वरमा बोलेको सुनिएला भन्ने आशा गरिन्छ।... यस सानो गीतिकाव्यमा छोटा साना द्विशब्दांशीदेखिन्‌ लिएर चार पाँच छ सात शाब्दांशी पङ्क्तिसम्म पाइन्छन्‌। केही छन्द त संस्कृतका विद्युन्माला या त्यस किसिमका अरू छन्दसँग मिल्न जान्छन्‌। यस किसिमको लय-लहरीमा बगेर एक पटक तादी मादीसँग मिल्न मन लाग्नु स्वाभाविकै हो। भोटे लयमा एक राम्रो भावपूर्ण गीतिकाव्य खडा गरूँ भन्ने मेरो भावना थियो।&#13;
-–लक्ष्मीप्रसाद देवकोटा</book_about>
-    <book_genre>काव्य</book_genre>
-    <book_slug>mhendu</book_slug>
+    <meta name="source_publisher" content="साझा प्रकाशन"></meta>
+    <meta name="source_edition" content="पाँचौँ"></meta>
+    <meta name="source_year" content="२०६३"></meta>
+    <meta name="source_isbn" content="99933-2-493-0"></meta>
+    <meta name="book_about" content="म्हेन्द यो एउटा तामाङ लयको फूल हो। यसमा दोसाँधे नीलो मोहनी छ, जो गोसाईंथानतिरको कुइरे उकालामा चम्कन्छ। मंगोल तथा आर्य- संस्कृतिको मधु सम्मेलन भएको नेपाल यहाँ एक प्यारको काल्पनिक कहानीमा अमरत्वको सङ्केत दिलाएर वनचरी र झर्नाहरूको स्वरमा बोलेको सुनिएला भन्ने आशा गरिन्छ।... यस सानो गीतिकाव्यमा छोटा साना द्विशब्दांशीदेखिन्‌ लिएर चार पाँच छ सात शाब्दांशी पङ्क्तिसम्म पाइन्छन्‌। केही छन्द त संस्कृतका विद्युन्माला या त्यस किसिमका अरू छन्दसँग मिल्न जान्छन्‌। यस किसिमको लय-लहरीमा बगेर एक पटक तादी मादीसँग मिल्न मन लाग्नु स्वाभाविकै हो। भोटे लयमा एक राम्रो भावपूर्ण गीतिकाव्य खडा गरूँ भन्ने मेरो भावना थियो।&#13;&#10;–लक्ष्मीप्रसाद देवकोटा"></meta>
+    <meta name="book_genre" content="काव्य"></meta>
+    <meta name="book_slug" content="mhendu"></meta>
     <meta name="cover" content="cover-img"></meta>
   </metadata>
   <manifest>
-    <item href="../styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="styles/global.css" id="static_0" media-type="text/css"/>
     <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
     <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
     <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
